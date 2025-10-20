@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rowankieck.github.io/mywebsite/sitemap.xml
